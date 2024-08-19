@@ -475,3 +475,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+FundamentalsCqrs.sln
+FundamentalsCqrs/appsettings.Development.json
+FundamentalsCqrs/appsettings.json
+FundamentalsCqrs.API/appsettings.Development.json
+FundamentalsCqrs.API/appsettings.json
