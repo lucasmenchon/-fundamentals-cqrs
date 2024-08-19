@@ -11,7 +11,7 @@ namespace FundamentalsCqrs.Controllers
         }
 
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult GetCustomer()
         {
             return Ok();
         }
